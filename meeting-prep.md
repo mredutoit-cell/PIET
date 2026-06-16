@@ -13,3 +13,4 @@
 
 ## Pricing and recommendations
 - Lay out options with trade-offs; final call stays with me
+- Check who else from their side is attending
